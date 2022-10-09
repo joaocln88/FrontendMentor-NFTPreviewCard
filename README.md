@@ -58,7 +58,7 @@ CSS positioning concepts.
 
 ## Author
 
-- Github - [João Corrêa](https://www.your-site.com)
+- Github - [João Corrêa](https://github.com/joaocln88)
 - Frontend Mentor - [@joaocln88](https://www.frontendmentor.io/profile/joaocln88)
 
 ## Acknowledgments
